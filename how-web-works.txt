@@ -1,0 +1,28 @@
+Part 1: 
+
+Question 1: 
+An HTTP stands for Hypertext Transfer Protocol which is the starter for every URL. This is how browsers and servers communicate. 
+
+Question 2: 
+URL stands for Uniform Resource Locator which is a specific address for a website. 
+
+Question 3: 
+DNS stands for Domain Name System which is a server that converts URLs into IP addresses
+
+Question 4: 
+This provides extra information for the URL to search a specific part of the website and is in the format ?x=1&y=2
+
+Question 5: 
+One HTTP verb is GET which retrieves information from a website and are commonly used with search forms. Another HTTP verb is POST which sends information from the user to the server and is common with sending a form or logging in, etc. 
+
+Question 6: 
+HTTP request is a request from a client to a server for example when searching for a website.
+
+Question 7: 
+HTTP response is a response that the client receives from a server containing HTML, CSS, JS. 
+
+Question 8: 
+HTTP headers provide additional information about the request or the response. For requests header information can include host name and date the server believes it is. For responses, it typically includes the content type and the date the server believes it is. 
+
+Quesiton 9: 
+When you type a URL into a browser, first the DNS server converts the URL into an IP address. Second, browser makes a request to server with headers and additional information. Third, response comes back with header information, DOM, and content. 
